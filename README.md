@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react, Java, Spring boot**
 
-- 📫 How to reach me **https://thinukavinjaya.site******
+- 📫 How to reach me **https://thinukavinjaya.site**
 
 </td>
 <td width="50%" align="center">
